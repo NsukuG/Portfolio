@@ -1,1 +1,1 @@
-This is where machine learning projects are stored
+This is where python and machine learning projects and are stored
